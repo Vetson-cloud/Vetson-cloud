@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Esther (Vetson)
 
-<!--
-**Vetson-cloud/Vetson-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer 🚀  
+Currently learning Go (Golang), Git, and CLI tools  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a growing developer on a journey to become a Full Stack Developer.  
+Right now, I’m focused on understanding backend development fundamentals and how the web works.
+
+I’m learning step by step and building small projects along the way.
+
+---
+
+## 🧠 What I'm Learning
+- Go (Golang)
+- Git & GitHub
+- Command Line (CLI)
+- How APIs work
+
+---
+
+## 📌 Projects
+- 🎨 ASCII Art Generator (CLI tool using Go)  
+- More projects coming soon
+
+---
+
+## 🎯 Goals
+- Become confident in backend development  
+- Learn frontend development later  
+- Build real-world full stack applications  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/e-o-o-7497a7338/  
+- GitHub: https://github.com/Vetson-cloud  
+
+---
+
+⭐ Still learning, still building, still growing.
