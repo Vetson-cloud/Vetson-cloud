@@ -35,7 +35,7 @@ I’m learning step by step and building small projects along the way.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/e-o-o-7497a7338/  
+- LinkedIn: https://www.linkedin.com/in/oe-olonibua/
 - GitHub: https://github.com/Vetson-cloud
 - Twitter :  https://x.com/Esteeolon
 
