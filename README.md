@@ -25,14 +25,14 @@ My current focus is on understanding programming, system behavior, and how AI-po
 
 ---
 
-## 📌 Projects
+##  Projects
 
 -  ASCII Art Generator (CLI tool using Go)
 - More experimental projects in progress...
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build strong foundations for AI engineering
 - Understand how real-world software systems are designed
@@ -42,7 +42,7 @@ My current focus is on understanding programming, system behavior, and how AI-po
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/oe-olonibua/
 - GitHub: https://github.com/Vetson-cloud
