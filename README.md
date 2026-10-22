@@ -5,7 +5,7 @@ Learning how to build intelligent systems and software tools through hands-on pr
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m on a journey toward AI engineering, focused on understanding how software systems work and how intelligent applications are built.
 
@@ -15,7 +15,7 @@ My current focus is on understanding programming, system behavior, and how AI-po
 
 ---
 
-## 🧠 What I'm Learning
+##  What I'm Learning
 
 - Go (Golang)
 - Git & GitHub
@@ -27,7 +27,7 @@ My current focus is on understanding programming, system behavior, and how AI-po
 
 ## 📌 Projects
 
-- 🎨 ASCII Art Generator (CLI tool using Go)
+-  ASCII Art Generator (CLI tool using Go)
 - More experimental projects in progress...
 
 ---
@@ -50,4 +50,4 @@ My current focus is on understanding programming, system behavior, and how AI-po
 
 ---
 
-⭐ Learning. Building. Exploring AI systems step by step.
+- Learning. Building. Exploring AI systems step by step.
